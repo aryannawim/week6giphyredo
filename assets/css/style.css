@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke
+    }
+
+h1{
+        
+        font-family: "Brush Script MT", cursive;
+
+
+}
+
+button {
+
+    border-radius: 50%; 
+    padding: 10px; 
+    
+
+
+
+}
+
+form{
+
+    padding: 50px; 
+      font-family: "Brush Script MT", cursive;
+    
+}
+
+#add-president{
+
+    border-radius: 50px; 
+
+}
+
+#gifPresidentArea{
+
+float: left; 
+height: 40px; 
+width: 40px; 
+
+
+}
+.item1{
+    border-radius: 100px; 
+    padding: 40px; 
+
+}
+.item {
+
+    border-radius: 100px; 
+    padding: 40px; 
+    position: relative; 
+}
